@@ -1,0 +1,7 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.pku.edu.cn/images/bg.jpg  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\bg.jpg
+http://www.pku.edu.cn/_img/selector-shadow.png  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\selector-shadow.png
+http://www.pku.edu.cn/img/rw_img.jpg  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\rw_img.jpg
+http://www.pku.edu.cn/files/search_normal.png  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\search_normal.png
+http://www.pku.edu.cn/img/yw_img.jpg  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\yw_img.jpg
+http://www.pku.edu.cn/images/loading.gif  =>  C:\Users\F\Desktop\www.pku.edu.cn\images\loading.gif
